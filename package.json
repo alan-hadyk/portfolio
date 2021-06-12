@@ -20,7 +20,7 @@
     "detect-browser": "^5.2.0",
     "intersection-observer": "^0.12.0",
     "ip": "^1.1.5",
-    "lodash": "^4.17.20",
+    "lodash": "^4.17.21",
     "node-fetch": "^2.6.1",
     "polished": "^4.0.5",
     "promise-polyfill": "^8.2.0",
