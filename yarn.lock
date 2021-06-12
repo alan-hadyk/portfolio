@@ -11542,10 +11542,10 @@ shellwords@^0.1.1:
   resolved "https://registry.yarnpkg.com/shellwords/-/shellwords-0.1.1.tgz#d6b9181c1a48d397324c84871efbcfc73fc0654b"
   integrity sha512-vFwSUfQvqybiICwZY5+DAWIPLKsWO31Q91JSKl3UYv+K5c2QRPzn0qzec6QPu1Qc9eHYItiP3NdJqNVqetYAww==
 
-shuffle-text@^0.3.1:
-  version "0.3.1"
-  resolved "https://registry.yarnpkg.com/shuffle-text/-/shuffle-text-0.3.1.tgz#e4886cf6655254a0988539b6bf6172d04736b3e0"
-  integrity sha512-pbPX7Zng3gKrCmaHLsLSuhlOHBQ/clBF5to2jIPwrEZt5RKn3XFeKf1HUsNXGvlqEP0c6/PRKqJhVHNbXvtGDw==
+shuffle-text@^0.3.4:
+  version "0.3.4"
+  resolved "https://registry.yarnpkg.com/shuffle-text/-/shuffle-text-0.3.4.tgz#dc5840b8ddfd8bf1e7e06dc4c077cd78b35c8f10"
+  integrity sha512-QShObmvxcYY9RCAFiFC/ln7V+jDkfQnxEQJUudklqpmQsJGeE/xY/4FJWS9JxhlvlJJ8P0a2D+k6L1iV3Lf/Rw==
 
 side-channel@^1.0.2:
   version "1.0.3"
